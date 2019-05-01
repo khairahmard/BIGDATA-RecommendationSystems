@@ -7,12 +7,12 @@
 ## REST API:
 ### TOP RATINGS
 `[GET] /<int:user_id>/ratings/top/<int:count>`
-![Gambar](/img/Screenshot_1.jpg)
+![Gambar](./img/Screenshot_1.jpg)
 
 ### MOVIE RECOMMEND
 `[GET] /movies/<int:movie_id>/recommend/<int:count>`
-![Gambar](/img/Screenshot_2.jpg)
+![Gambar](./img/Screenshot_2.jpg)
 
 ### MOVIE RATINGS
 `[GET] /<int:user_id>/ratings/<int:movie_id>`
-![Gambar](/img/Screenshot_3.jpg)
+![Gambar](./img/Screenshot_3.jpg)
